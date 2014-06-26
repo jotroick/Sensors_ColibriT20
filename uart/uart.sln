@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "uart", "uart.vcproj", "{CDB10D4D-9241-4A46-8905-0C77A3AD3AE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|SDK2wince7 (ARMv4I) = Debug|SDK2wince7 (ARMv4I)
+		Release|SDK2wince7 (ARMv4I) = Release|SDK2wince7 (ARMv4I)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDB10D4D-9241-4A46-8905-0C77A3AD3AE9}.Debug|SDK2wince7 (ARMv4I).ActiveCfg = Debug|SDK2wince7 (ARMv4I)
+		{CDB10D4D-9241-4A46-8905-0C77A3AD3AE9}.Debug|SDK2wince7 (ARMv4I).Build.0 = Debug|SDK2wince7 (ARMv4I)
+		{CDB10D4D-9241-4A46-8905-0C77A3AD3AE9}.Debug|SDK2wince7 (ARMv4I).Deploy.0 = Debug|SDK2wince7 (ARMv4I)
+		{CDB10D4D-9241-4A46-8905-0C77A3AD3AE9}.Release|SDK2wince7 (ARMv4I).ActiveCfg = Release|SDK2wince7 (ARMv4I)
+		{CDB10D4D-9241-4A46-8905-0C77A3AD3AE9}.Release|SDK2wince7 (ARMv4I).Build.0 = Release|SDK2wince7 (ARMv4I)
+		{CDB10D4D-9241-4A46-8905-0C77A3AD3AE9}.Release|SDK2wince7 (ARMv4I).Deploy.0 = Release|SDK2wince7 (ARMv4I)
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
